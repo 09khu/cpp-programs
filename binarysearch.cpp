@@ -1,6 +1,4 @@
 //Program for binary search
-// Hi I'm Manisha
-
 #include<iostream>
 using namespace std;
 int binarysearch(int arr[],int n,int key)
